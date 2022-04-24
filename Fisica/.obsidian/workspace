@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "3170fb1a2e872536",
+    "type": "split",
+    "children": [
+      {
+        "id": "c578385be0971472",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a4ad03e9a02dec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab8a7a55739e507b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7cd70db5e602b51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a756edb7093e70d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e455bcfc94c880a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "14249ed1c48bbdca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bdfcbd05e25e8bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c578385be0971472",
+  "lastOpenFiles": [
+    "fisica 1/Lezione 1.md",
+    "indice.md",
+    "concetti/Misurazioni.md",
+    "concetti/Dimensionalità.md",
+    "esercizi 2022/esercizio 1-02.md",
+    "Dimensionalità - prova.md",
+    "reference/milli-nano-ecc.png"
+  ]
+}
